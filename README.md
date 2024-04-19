@@ -1,6 +1,17 @@
-# Geektime Rust 语言训练营
+<!--
+ * @Author: yaoxingpu yaoxpu@163.com
+ * @Date: 2024-04-18 23:19:37
+ * @LastEditors: yaoxingpu yaoxpu@163.com
+ * @LastEditTime: 2024-04-18 23:42:25
+ * @FilePath: /rcli/README.md
+ * @Description:
+ *
+-->
+# RCLI
 
-## 环境设置
+rcli is a rust CLI tool.
+
+<!-- ## 环境设置
 
 ### 安装 Rust
 
@@ -81,3 +92,4 @@ cargo nextest 是一个 Rust 增强测试工具。
 ```bash
 cargo install cargo-nextest --locked
 ```
+ -->
